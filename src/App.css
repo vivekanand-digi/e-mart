@@ -23,6 +23,16 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.color{
+  display: flex;
+}
+
+.rating{
+  display: flex;
+}
+.warranty{
+  display: flex;
+}
 
 .App-link {
   color: #61dafb;

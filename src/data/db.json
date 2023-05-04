@@ -1,0 +1,250 @@
+ {
+  "categories":[
+    {"id":1,"title":"Electronics"},
+    {"id":2,"title":"TVs&Appliances"}
+  ],
+
+ "products":[
+    {
+      "id": 1,
+      "cardId":1,
+      "title": "Samsung S21",
+      "color": "Black",
+      "price": "25500",
+      "rating":4,
+      "details":"Ram:4GB RAM, Storage:128GB, Display:16.26 cm (6.4 inch) Full HD+ Display, Camera:12MP + 12MP + 8MP (OIS)  32MP Front Camera, Battery:4500 mAh Lithium-ion Battery", 
+      "warranty":"1 Year Manufacturer Warranty for Device and 6 Months Manufacturer Warranty for In-Box",
+      "image":"/assets/Samsung S21.jpg"
+    },
+    {
+      "id": 2,
+      "cardId":1,
+      "title": "Redmi Note 11",
+      "color": "Black",
+      "price": "23500",
+      "rating":3,
+      "details":"Ram:4GB RAM, Storage:128GB, Display:16.94 cm (6.67 inch) Display, Camera:108MP Rear Camera, Battery:5000 mAh Battery",
+      "warranty":"12 Months Warranty",
+      "image":"/assets/Redmi Note 11.jpg"
+    },
+    {
+      "id": 3,
+      "cardId":1,
+      "title": "Infinix",
+      "color": "Gray",
+      "price": "12699",
+      "rating":4,
+      "details":"Ram:4GB RAM, Storage:64GB, Display:17.32 cm (6.82 inch) HD+ Display, Camera:13Mp + AI Lens | 8MP Front Camera, Battery:6000 mAh Li-ion Polymer Battery",
+      "warranty":"1 Year on Handset and 6 Months on Accessories",
+      "image":"/assets/Infinix.jpg"
+    },
+    {
+      "id": 4,
+      "cardId":1,
+      "title": "Apple IPhone 13",
+      "color": "Blue",
+      "price": "90500",
+      "rating":4,
+      "details":"128 GB ROM, Display:15.49 cm (6.1 inch) Super Retina XDR Display, Camera:12MP + 12MP | 12MP Front Camera, Battery:4500 mAh Li-ion Polymer Battery",
+      "warranty":"Brand Warranty for 1 Year",
+      "image":"/assets/Iphone 13.jpg"
+    },
+    {
+      "id": 5,
+      "cardId":1,
+      "title": "Vivo T1",
+      "color": "Moon light",
+      "price": "33500",
+      "rating":5,
+      "details":"Ram:4 GB RAM, Storage:128 GB ROM, Display:16.36 cm (6.44 inch) Full HD+ AMOLED Display, Camera:50MP + 2MP + 2MP | 16MP Front Camera, Battery:5000 mAh Lithium Battery,Snapdeagon:Qualcomm Snapdragon 680 Processor",
+      "warranty":"1 Year Handset and 6 Months Accessories",
+      "image":"/assets/Vivo T1.jpg"
+     
+    },
+    {
+      "id": 6,
+      "cardId":1,
+      "title": "Nothing",
+      "color": "Black",
+      "price": "38500",
+      "rating":4,
+      "details":"Ram:8 GB RAM, Storage:256 GB ROM, Display:16.64 cm (6.55 inch) Full HD+ Display, Camera:50MP + 50MP | 16MP Front Camera, Battery:4500 mAh Lithium-ion Battery, Snapdeagon:Qualcomm Snapdragon 778G+ Processor",
+      "warranty":"1 Year Warranty",
+      "image":"/assets/Nothing.jpg"
+      
+    },
+    {
+      "id": 7,
+      "cardId":1,
+      "title": "Poco C31",
+      "color": "Black",
+      "price": "18500",
+      "rating":4,
+      "details":"Ram:3 GB RAM, Storage:32 GB ROM, Display:16.59 cm (6.53 inch) HD+ Display, Camera:13MP + 2MP + 2MP | 5MP Front Camera, Battery:5000 mAh Lithium-ion Polymer Battery, Snapdeagon:MediaTek Helio G35 Processor",
+      "warranty":"1 Year Warranty for Handset, 6 Months for Accessories",
+      "image":"/assets/Poco C31.jpg"
+      
+    
+    },
+    {
+      "id": 8,
+      "cardId":1,
+      "title": "Realme 8 Pro",
+      "color": "Blue",
+      "price": "24500",
+      "rating":4,
+      "details":"Ram:6 GB RAM, Storage:128 GB ROM, Display:16.26 cm (6.4 inch) Full HD+ Display, Camera:108MP + 8MP + 2MP + 2MP | 16MP Front Camera, Battery:4500 mAh Battery, Snapdeagon:Qualcomm Snapdragon 720G Processor",
+      "warranty":"1 Year Warranty for Mobile and 6 Months for Accessories",
+      "image":"/assets/realme 8 pro.jpg"
+
+      
+    },
+    {
+      "id": 9,
+      "cardId":1,
+      "title": "Oppo K10",
+      "color": "Blue",
+      "price": "25500",
+      "rating":4,
+      "details":"Ram:6 GB RAM, Storage:128 GB ROM, Display:16.74 cm (6.59 inch) Full HD+ Display, Camera:50MP + 2MP + 2MP | 16MP Front Camera, Battery:5000 mAh Lithium Ion Battery, Snapdeagon:Qualcomm Snapdragon 680 Processor",
+      "warranty": "1 Year Manufacturer Warranty for Phone and 6 Months Warranty for In-Box Accessories",
+      "image":"/assets/Oppo K10.jpg"
+     
+    },
+    {
+      "id": 10,
+      "cardId":2,
+      "title": "OnePlus U1S 139 cm (55 inch) Ultra HD (4K) LED Smart Android TV with Far field and Dolby Audio",
+      "color": "Black",
+      "price": "61999",
+      "rating":4,
+      "details":"Display Size:164 cm (65 inch),Ram:6 GB RAM, Storage:128 GB ROM, Resolution: Ultra HD (4K) 3840 x 2160 Pixels, Sound Output: 30 W, Refresh Rate: 60 Hz, Supported Apps:Netflix|Prime Video|Disney+Hotstar|Youtube, Weight:21kg",
+      "warranty": "1 year warranty on product and 1 year warranty on panel",
+      "image":"/assets/OneplusTv.jpg"
+     
+    },
+    {
+      "id": 11,
+      "cardId":2,
+      "title": "SAMSUNG Crystal 4K Pro 146 cm (58 inch) Ultra HD (4K) LED Smart Tizen TV with Voice Search",
+      "color": "Black",
+      "price": "72990",
+      "rating":4,
+      "details":"Display Size:163 cm (65 inch),Ram:4 GB RAM, Storage:164 GB ROM, Resolution: Ultra HD (4K) 3840 x 2160 Pixels, Sound Output: 20 W, Refresh Rate: 60 Hz, Supported Apps:Netflix|Prime Video|Disney+Hotstar|Youtube, Weight:20.9kg",
+      "warranty": "1 Year Comprehensive Warranty on Product and 1 Year Additional on Panel",
+      "image":"/assets/SAMSUNGTV.jpg"
+     
+    },
+    {
+      "id": 12,
+      "cardId":2,
+      "title": "Mi Q1 189.34 cm (75 inch) QLED Ultra HD (4K) Smart Android TV Full Array Local Dimming & 120Hz Refresh Rate",
+      "color": "Black",
+      "price": "112499",
+      "rating":4,
+      "details":"Display Size:189.34 cm (75 inch),Ram:2 GB RAM, Storage:32 GB ROM, Resolution:  ResolutionUltra HD (4K), 3840 x 2160, Sound Output: 30 W, Refresh Rate: 120 Hz, Supported Apps:Netflix|Prime Video|Disney+Hotstar|Youtube, Weight:20.9kg",
+      "warranty": "1 Year Warranty on Product and 2 Years Warranty on Panel. OEM warranty activation starts from the date of delivery.",
+      "image":"/assets/MiTV.jpg" 
+    },
+    {
+      "id": 13,
+      "cardId":2,
+      "title": "CARRIER 1.2 Ton 5 Star Split Inverter AC - White  (14K ESTER DXi INVERTER R32 SPLIT AC_CAI14ES5R32F0, Copper Condenser)",
+      "color":"White",
+      "price": "112499",
+      "rating":4,
+      "details":"Capacity in Tons:1.2 Ton, 5 Star BEE Rating 2022 : For energy savings upto 25% (compared to Non-Inverter 1 Star), Auto Restart: No need to manually reset the settings post power-cut, Copper : Energy efficient, best in class cooling with easy maintenance, Sleep Mode: Auto-adjusts the temperature to ensure comfort during your sleep, ",
+      "warranty": "1 Year Warranty on Product and 10 Years on Compressor",
+      "image":"/assets/CARRIERAC.jpg" 
+    },
+    {
+      "id": 14,
+      "cardId":2,
+      "title": "Voltas 1.5 Ton 5 Star Split Inverter AC - White  (185V Vectra Elite(4503453), Copper Condenser)",
+      "color":"White",
+      "price": "39490",
+      "rating":4,
+      "details":"Capacity in Tons:1.5 Ton, 5 Star BEE Rating 2022 : For energy savings upto 25% (compared to Non-Inverter 1 Star), Auto Restart: No need to manually reset the settings post power-cut, Copper : Energy efficient, best in class cooling with easy maintenance., Sleep Mode: Auto-adjusts the temperature to ensure comfort during your sleep",
+      "warranty": "1 Year Warranty on Product and 10 Years Warranty on Compressor",
+      "image":"/assets/Voltas.jpg" 
+    },
+    {
+      "id": 15,
+      "cardId":2,
+      "title": "Blue Star Convertible 4-in-1 Cooling 1.5 Ton 3 Star Split Inverter AC - White  (IA318FNU, Copper Condenser)",
+      "color":"White",
+      "price": "44490",
+      "rating":4,
+      "details":"Capacity in Tons:1.5 Ton, 3 Star BEE Rating 2023 : For energy savings upto 15% (compared to Non-Inverter 1 Star), Auto Restart: No need to manually reset the settings post power-cut, Copper :Energy efficient, best in class cooling with easy maintenance., Sleep Mode: Auto-adjusts the temperature to ensure comfort during your sleep",
+      "warranty": "1 Year on Product and 10 Years Warranty on Compressor",
+      "image":"/assets/BlueStar.jpg" 
+    },
+    {
+      "id": 16,
+      "cardId":1,
+      "title": "Mi 3i 10000 mAh Power Bank (Fast Charging, 18W)  (Blue, Lithium Polymer)",
+      "color":"Blue",
+      "price": "1199",
+      "rating":4,
+      "details":"Port- Type C and micro usb, Cable- micro usb, Recharging time- 4 hours (with 18 W charger and USB cable), Capacity: 10000 mAh, Lithium Polymer Battery | Type-C Connector, Power Source: Battery, Charging Cable Included, ",
+      "warranty": "Domestic warranty",
+      "image":"/assets/MiPowerBank.jpg" 
+    },
+    {
+      "id": 17,
+      "cardId":1,
+      "title": "ONLY PLUS 10000 mAh Power Bank (Fast Charging)  (Black, Lithium-ion)",
+      "color":"White",
+      "price": "1499",
+      "rating":3,
+      "details":"Capacity: 10000 mAh, Lithium-ion Battery | Type-C Connector, Power Source: AC Adapter, Charging Cable Included",
+      "warranty": "6 Month",
+      "image":"/assets/OneplusPowerBank.jpg" 
+    },
+    {
+      "id": 18,
+      "cardId":1,
+      "title": "Apple 20W ,USB-C Power Charging Adapter for iPhone, iPad & AirPods  (White)",
+      "color":"White",
+      "price": "1599",
+      "rating":4,
+      "details":"Wall Charger, Suitable For:Mobile, No Cable Included, Universal Voltage, Output Current:3 A",
+      "warranty": "1 Year Warranty",
+      "image":"/assets/AppleCharger.jpg" 
+    },
+    {
+      "id": 19,
+      "cardId":1,
+      "title": "SAMSUNG Original 25W , USB -C Compatible Power Adaptor for all Samsung Devices (Fast Charge 2.0)  (White)",
+      "color":"White",
+      "price": "1299",
+      "rating":4,
+      "details":"Wall Charger, Suitable For:Mobile, No Cable Included, Universal Voltage, Output Current:3 A ",
+      "warranty": "1 Year Warranty",
+      "image":"/assets/SamsungCharger.jpg" 
+    },
+    {
+      "id": 20,
+      "cardId":2,
+      "title": "Godrej 180 L Direct Cool Single Door 2 Star Refrigerator  (Dermin Blue, RD EDGE 205B WRF DR BL)",
+      "color":"Red",
+      "price": "12949",
+      "rating":4,
+      "details":"Type:Single Door, 180 L:Good for couples and small families, Reciprocatory Compressor, 2 Star:For Energy savings up to 20%, Direct Cool : Economical, consumes less electricity,requires manual defrosting, Weight:31.7kg ",
+      "warranty": "1 Year Comprehensive Warranty on Product and 5 Years Warranty on Motor",
+      "image":"/assets/Godrej.jpg" 
+    },
+    {
+      "id": 21,
+      "cardId":2,
+      "title": "Whirlpool 192 L Direct Cool Single Door 4 Star Refrigerator with Base Drawer  (Sapphire Mulia, 215 IMPRO ROY 4S Inv SAPPHIRE MULIA-Z)",
+      "color":"Blue",
+      "price": "17490",
+      "rating":4,
+      "details":"Type:Single Door, 192 L : Good for couples and small families, IntelliSense Inverter Compressor, 4 Star : For Energy savings up to 45%, Direct Cool : Economical, consumes less electricity, requires manual defrosting, Base Stand with Drawer : For storing items that don't need cooling (Onion, Potato etc.),Weight:36.9kg ",
+      "warranty": "1 Year on Product and 10 Years on the Compressor from Whirlpool",
+      "image":"/assets/Whirlpool.jpg" 
+    }
+
+ ]
+}
